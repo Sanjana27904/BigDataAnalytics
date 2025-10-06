@@ -85,4 +85,3 @@ The workflow of this project is structured step-by-step:
 
 ---
 
-📌 *This repository is part of a Big Data Analytics academic mini-project. The analysis highlights how EV adoption is shaped by technology, policy, and consumer demand, offering insights for sustainable mobility.*
